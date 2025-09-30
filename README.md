@@ -8,4 +8,4 @@
 
 👯 Open to collaborate on FP&A dashboards, valuation models (DCF, LBO), and financial strategy projects.
 
-Check out my portfolio!
+Check out my portfolio! nitinn1994-bit.github.io/MyPortfolio-/
